@@ -171,7 +171,7 @@ pip install opencv-contrib-python==3.4.2.16
 * Take a look at the working project demonstration. Click on the image to view the complete video
 
 
-[![Sign Language Recognition ](https://user-images.githubusercontent.com/44548665/123537377-82fa7000-d748-11eb-9c3a-9c7783ada803.png)]
+[![Sign Language Recognition ](https://user-images.githubusercontent.com/44548665/123537377-82fa7000-d748-11eb-9c3a-9c7783ada803.png)](https://youtu.be/RpMIePAABMw)
 
 
 
