@@ -152,7 +152,7 @@ pip install opencv-python==3.4.2.16
 pip install opencv-contrib-python==3.4.2.16
 ```
 
-## Edited on 4th June, 2020 After abundance of request and observation following changes has been made
+## Edited on 4th June, 2021 After abundance of request and observation following changes has been made
 * The Dataset required for training the model is available inside Dataset Directory. Also, the trained model has been made available with the consent of all the sakeholders for totally Non-Commercial purpose only.
 * This project now works on python 3.7x interpreter platform as well fully tested as of the above mentioned date.
 * The complexity of step 4 has been reduced, the file is available inside the source code folder itself and if you are okay to not use winGuiAuto functions globally then you can skip this step.
