@@ -1,0 +1,14 @@
+install python 3.6
+pip install pyqt5
+pip install keyboard
+paste winGuiAuto.py inside sitepackages
+pip install pypiwin32
+pip install pyttsx3
+python -m pip install tensorflow --trusted-host files.pythonhosted.org --trusted-host pypi.org --trusted-host pypi.python.org
+pip install scipy
+pip install opencv-python==3.4.2.16
+pip install opencv-contrib-python==3.4.2.16
+pip install qimage2ndarray
+pip install tensorflow==2.0.0-alpha0
+pip install keras (if keras doesnt work just replace keras.model to tensorflow.keras.model)
+pip install pillow      
